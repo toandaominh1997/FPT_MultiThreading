@@ -12,10 +12,11 @@ By going to  - **File -> New File To Read** to read the file <br>
 ### Step 2:
 Choose thread<br>
 ![thread](https://github.com/bigkizd/FPT_MultiThreading/blob/master/image/thread.png)<br><br>
-#### SingleThread
-##### Thread Read
-- **Thread -> Read** to select read thread
+#### 1. SingleThread
+- Thread Read
+  - **Thread -> Read** to select read thread
 - Thread Write
+  -  **Thread -> Read** to select read thread
 **Thread -> Write** to select write thread
 #### 2. Multithreading
 ##### 2.1 Thread Parallelism
